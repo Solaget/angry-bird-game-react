@@ -23,5 +23,5 @@ To run this project locally:
 
 1. Clone the repository
 
-
+git clone https://github.com/Solaget/angry-bird-game-react.git
 ```
