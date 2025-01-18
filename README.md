@@ -22,6 +22,6 @@ This project is a simplified clone of the popular Angry Birds game, built using 
 To run this project locally:
 
 1. Clone the repository
-
+``bash
 git clone https://github.com/Solaget/angry-bird-game-react.git
 ```
